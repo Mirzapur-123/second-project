@@ -1,2 +1,3 @@
-# Storm Sentinel Forecasting Future Rainfall using ML Algorithms
+# Storm Sentinel: Forecasting Future Rainfall Using Machine Learning
 This is my second project on GitHub
+Storm Sentinel is a machine learning–based rainfall forecasting system that predicts future rainfall patterns using historical climatic data. The project analyzes monthly, seasonal, and annual rainfall trends to build accurate predictive models that can support agriculture planning, water resource management, and disaster preparedness.By leveraging supervised machine learning algorithms, Storm Sentinel learns complex patterns and variability in rainfall across different regions and time periods.
